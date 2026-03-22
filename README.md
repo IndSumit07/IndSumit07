@@ -76,7 +76,7 @@
   <img src="https://img.shields.io/badge/-GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.codechef.com/users/mainsumithoon">
+<a href="https://www.codechef.com/users/indsumit06">
   <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 &nbsp;
