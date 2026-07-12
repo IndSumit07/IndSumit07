@@ -59,8 +59,8 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://leetcode.com/u/MainSumitHoon">
-        <img src="https://leetcard.jacoblin.cool/MainSumitHoon?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="100%" />
+      <a href="https://leetcode.com/u/IndSumit06">
+        <img src="https://leetcard.jacoblin.cool/IndSumit06?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="100%" />
       </a>
     </td>
     <td align="center">
@@ -72,7 +72,7 @@
 </table>
 
 <br/>
-<a href="https://www.geeksforgeeks.org/profile/mainsumithoon">
+<a href="https://www.geeksforgeeks.org/profile/IndSumit06">
   <img src="https://img.shields.io/badge/-GeeksforGeeks-298D35?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 &nbsp;
