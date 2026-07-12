@@ -19,7 +19,7 @@
   <a href="mailto:developer.sumit.personal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="https://leetcode.com/u/MainSumitHoon">
+  <a href="https://leetcode.com/u/IndSumit06">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="30" />
   </a>
   
